@@ -1,0 +1,12 @@
+# Checkpoints #
+###############
+*checkpoint.ipynb
+
+# Compiled Source #
+###################
+*.pyc
+
+# Directories #
+###############
+data/
+slides/
